@@ -19,8 +19,8 @@
   2. <p align="justify"> ¿Cual es el rating promedio por género? </p>
   3. <p align="justify"> ¿Cuáles son los géneros que proporcionan mayor ROI? </p>
   4. <p align="justify"> ¿Cuáles son los países con mayor producción de contenido? </p>
-  5. <p align="justify"> Pregunta 5</p>
-  6. <p align="justify"> Pregunta 6</p>
+  5. <p align="justify"> Series de TV más vistos </p>
+  6. <p align="justify"> Sugerencia de películas a traer al catálogo </p>
 
 <h2> Análisis Exploratorio de los Datos(EDA) </h2>
 
@@ -39,3 +39,21 @@
 </p>
 
 <p align="justify"> Podemos observar que la mayoría de las películas y series han sido producidas y estrenadas en el siglo 21, en estos ultimos 20 años se han lanzado aproximadamente unos 300mil titulos lo que representa un 62% de nuestros datos, dividos la primera decada de los 2000 con un 33% de estos lanzamientos y en la segunda epoca, en este caso incluyendo los ultimos 4 años un 29% de lanzamientos, parece que con el paso de tiemp disminuyo un poco la cantidad de producciones realizadas, como la compañia es de streaming y los tiempos van cambiando constantemente, limitaremos el análisis de las producciones entre el año 1990 hasta el presente año 2024, el resto no las consideraremos porque aunque fueron de gran impacto en su epoca, hoy en día pueden que no tengan el mismo impacto debido a los grandes cambios culturales que hemos tenido en estas dos ultimas decadas.</p>
+
+
+<h2> Conclusiones y sugerencias</h2>
+<p align="justify"> A raíz de los objetivos planteados, hicimos con la hipótesis de determinar si ciertos actores, que aportan mayor ROI , o mayor cantidad de contenidos a su vez son los que tienen mayor cantidad de votos por la audiencia. y/o viceversa. Por ello presentamos unas sugerencias de películas que son prácticamente nuevas y no están en el catálogo de la plataforma de streaming con la que trabajamos filtrandos por los tres géneros más destacados Aventuras, Ciencia Ficción y Acción. Lo presentamos en una carpeta llama `output` que tiene esta estructura.</p>
+
+```
+  ├── outpus
+      	├── actors_common_title_basics.csv
+      	├── genre_actors_tmdb_df.csv
+      	├── title_basics_"genre"_actors.csv      <- "genre" es el género en concreto de la lista
+        ├── tmdb_"genre"_actors.csv              <- "genre" es el género en concreto de la lista
+        └── tmdb_movies_genre_common.csv
+```
+
+> [!IMPORTANT]
+> Esto fue un proyecto que participamos los miembros del canal del
+> 
+>[![](https://img.shields.io/youtube/channel/subscribers/UCuerQOTskuNkddcT738357g?style=for-the-badge&logo=youtube&label=Bootcamp%20Xperience)](https://www.youtube.com/@BootcampXperience)
