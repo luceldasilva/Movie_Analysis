@@ -119,7 +119,7 @@
   <img src="https://github.com/luceldasilva/Movie_Analysis/assets/146877817/a9fa8e78-1642-4c79-a9a1-cff3f427a59f" alt="Series mejor rating" />
 </p>
 
-<p align="justify"> Observamos un top 10 de las series y temporadas de series(en el caso de algunas) las cuales tienen el mejor rating desde el año 2000 y van acorde al insight anterior donde analizamos el top 10 series según la cantidad de votos acumulados a lo largo de los años 2000 al actual, vemos que hay un coherencia.</p>
+<p align="justify"> Observamos un top 10 de las series y temporadas de series(en el caso de algunas) y podemos ver que tiene conherencia con la cantidad de votos que han recibido algunas series estas ultimas 2 decadas</p>
 
 **RECOMENDACIONES**
 
