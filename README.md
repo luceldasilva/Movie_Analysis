@@ -103,6 +103,29 @@
 
 <p align="justify">Como sugerencia al negocio proponemos seguir adquiriendo y sumando a la plataforma series y películas de países como USA y UK en mayor medida, pero dejando un espacio para traer contenido de China, India y Japón realizando primero un estudio del contenido a traer, basados en los géneros y tomar una muestra de individuos primero, que hagan una evaluación del contenido para ver si es de calidad para el consumidor de la plataforma.</p>
 
+<h3>Pregunta 5:   ¿Cuáles son las series más votadas desde el año 2000?</h3>
+<p align="center">
+  <img src="https://github.com/luceldasilva/Movie_Analysis/assets/146877817/6c29480a-f73e-4a98-a470-2c0b00eaef02" alt="Series mejor rating" />
+</p>
+
+<p align="justify">Estas son las top 10 series más votadas en esta últimas dos décadas, esto nos indica que obtuvo una gran cantidad de espectadores.</p>
+
+**RECOMENDACIONES**
+
+<p align="justify">Evaluar en la medida de lo posible la factibilidad de incluir estas series a nuestra plataforma, teniendo en consideración que muchas de estas pueden ser exclusivas de sus compañías para su distribución o pueden tener un alto costo los derechos para poder distribuirla.</p>
+
+<h3>Pregunta 6:   ¿Cuáles han sido las series y temporadas con mejor rating desde el año 2000?</h3>
+<p align="center">
+  <img src="https://github.com/luceldasilva/Movie_Analysis/assets/146877817/a9fa8e78-1642-4c79-a9a1-cff3f427a59f" alt="Series mejor rating" />
+</p>
+
+<p align="justify"> Observamos un top 10 de las series y temporadas de series(en el caso de algunas) las cuales tienen el mejor rating desde el año 2000 y van acorde al insight anterior donde analizamos el top 10 series según la cantidad de votos acumulados a lo largo de los años 2000 al actual, vemos que hay un coherencia.</p>
+
+**RECOMENDACIONES**
+
+<p align="justify">Como se menciono anteriormente se recomienda buscar la forma de integrar estas series a la plataforma con el fin de incentivar a los futuros clientes a suscribirse con nosotros.</p>
+
+
 <h2> Conclusiones y sugerencias</h2>
 <p align="justify"> A raíz de los objetivos planteados, hicimos con la hipótesis de determinar si ciertos actores, que aportan mayor ROI , o mayor cantidad de contenidos a su vez son los que tienen mayor cantidad de votos por la audiencia. y/o viceversa. Por ello presentamos unas sugerencias de películas que son prácticamente nuevas y no están en el catálogo de la plataforma de streaming con la que trabajamos filtrandos por los tres géneros más destacados Aventuras, Ciencia Ficción y Acción. Lo presentamos en una carpeta llama `output` que tiene esta estructura.</p>
 
