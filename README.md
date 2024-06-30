@@ -1,7 +1,7 @@
 <h1>Movie Analysis</h1>
 
 > [!NOTE]
-> Este es un proyecto que pretende en base a un análisis de los datos oficiales de peliculas y tvseries generar insight de negocio para una empresa de stremaming que busca entrar al mercado. <br>
+> Este es un proyecto que pretende, en base a un análisis de los datos oficiales de peliculas y series, generar insight de negocio para una empresa de stremaming que busca entrar al mercado. <br>
 
 <h2>Problema del negocio</h2>
 
