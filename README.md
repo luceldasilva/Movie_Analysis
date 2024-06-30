@@ -127,7 +127,7 @@
 
 
 <h2> Conclusiones y sugerencias</h2>
-<p align="justify"> A raíz de los objetivos planteados, hicimos con la hipótesis de determinar si ciertos actores, que aportan mayor ROI , o mayor cantidad de contenidos a su vez son los que tienen mayor cantidad de votos por la audiencia. y/o viceversa. Por ello presentamos unas sugerencias de películas que son prácticamente nuevas y no están en el catálogo de la plataforma de streaming con la que trabajamos filtrandos por los tres géneros más destacados Aventuras, Ciencia Ficción y Acción. Lo presentamos en una carpeta llama  <b> boutput</b> que tiene esta estructura.</p>
+<p align="justify"> A raíz de los objetivos planteados, hicimos con la hipótesis de determinar si ciertos actores, que aportan mayor ROI , o mayor cantidad de contenidos a su vez son los que tienen mayor cantidad de votos por la audiencia. y/o viceversa. Por ello presentamos unas sugerencias de películas que son prácticamente nuevas y no están en el catálogo de la plataforma de streaming con la que trabajamos filtrandos por los tres géneros más destacados Aventuras, Ciencia Ficción y Acción. Lo presentamos en una carpeta llama  <b>output</b> que tiene esta estructura.</p>
 
 ```
   ├── outpus
